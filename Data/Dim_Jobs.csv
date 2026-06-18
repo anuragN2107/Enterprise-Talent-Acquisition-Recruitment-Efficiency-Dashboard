@@ -1,0 +1,46 @@
+JobID,Department,RoleTitle,TargetSalary,DateOpened,RecruiterID
+JOB001,Sales,Account Executive,74000,2025-04-17,REC008
+JOB002,Marketing,Growth Marketer,134000,2025-03-29,REC005
+JOB003,Sales,Business Development Rep,83000,2025-05-11,REC006
+JOB004,Marketing,SEO Specialist,89000,2025-10-21,REC002
+JOB005,Sales,Account Executive,92000,2025-11-10,REC006
+JOB006,Marketing,SEO Specialist,108000,2025-02-28,REC007
+JOB007,Product,Senior PM,189000,2025-09-28,REC006
+JOB008,HR & Ops,HR Specialist,121000,2025-02-20,REC004
+JOB009,Sales,Business Development Rep,62000,2025-11-03,REC007
+JOB010,Marketing,Growth Marketer,98000,2025-10-01,REC004
+JOB011,Engineering,Engineering Manager,168000,2025-12-12,REC005
+JOB012,Product,Senior PM,189000,2026-03-04,REC005
+JOB013,Data & Analytics,Data Scientist,95000,2025-02-19,REC008
+JOB014,Sales,Business Development Rep,65000,2025-02-23,REC002
+JOB015,Sales,Business Development Rep,122000,2026-02-06,REC002
+JOB016,Sales,Business Development Rep,133000,2026-03-22,REC004
+JOB017,HR & Ops,HR Specialist,107000,2025-09-28,REC008
+JOB018,HR & Ops,HR Specialist,121000,2025-10-23,REC005
+JOB019,Marketing,SEO Specialist,112000,2025-10-07,REC002
+JOB020,Engineering,Engineering Manager,200000,2025-06-06,REC007
+JOB021,Marketing,Growth Marketer,130000,2025-01-09,REC008
+JOB022,Engineering,Engineering Manager,222000,2025-05-19,REC003
+JOB023,Engineering,Engineering Manager,194000,2025-10-16,REC003
+JOB024,Marketing,SEO Specialist,100000,2025-01-28,REC007
+JOB025,Engineering,Engineering Manager,193000,2025-02-02,REC008
+JOB026,HR & Ops,Operations Coordinator,96000,2025-04-09,REC004
+JOB027,HR & Ops,HR Specialist,94000,2026-03-25,REC003
+JOB028,Marketing,Growth Marketer,137000,2025-05-11,REC001
+JOB029,Marketing,SEO Specialist,73000,2025-12-25,REC003
+JOB030,Engineering,DevOps Engineer,74000,2025-12-12,REC002
+JOB031,Sales,Account Executive,110000,2025-03-04,REC008
+JOB032,Engineering,Engineering Manager,182000,2025-08-19,REC005
+JOB033,Data & Analytics,Data Analyst,95000,2025-01-13,REC008
+JOB034,Data & Analytics,Analytics Engineer,87000,2025-03-07,REC002
+JOB035,Marketing,SEO Specialist,116000,2025-05-14,REC004
+JOB036,Sales,Business Development Rep,103000,2025-12-06,REC006
+JOB037,HR & Ops,HR Specialist,121000,2025-08-13,REC001
+JOB038,Engineering,DevOps Engineer,121000,2025-05-01,REC004
+JOB039,Marketing,Growth Marketer,62000,2025-12-25,REC006
+JOB040,Data & Analytics,Data Analyst,121000,2025-06-14,REC001
+JOB041,Data & Analytics,Data Scientist,103000,2025-06-01,REC007
+JOB042,Data & Analytics,Data Scientist,91000,2025-04-06,REC008
+JOB043,Engineering,Engineering Manager,217000,2025-02-21,REC004
+JOB044,HR & Ops,HR Specialist,61000,2026-01-22,REC001
+JOB045,Marketing,Growth Marketer,115000,2025-03-22,REC003
