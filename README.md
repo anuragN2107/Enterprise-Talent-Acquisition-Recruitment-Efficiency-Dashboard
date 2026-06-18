@@ -6,7 +6,7 @@
 ![Data Governance](https://img.shields.io/badge/Security-Row_Level_Security-red?style=for-the-badge)
 
 ## 📌 Project Deliverables
-* **Production Power BI Workspace File:** [`Enterprise_TA_Analytics.pbix`](./Enterprise_TA_Analytics.pbix)
+* **Production Power BI Workspace File:** [`Dashboard`]([./Enterprise_TA_Analytics.pbix](https://github.com/anuragN2107/Enterprise-Talent-Acquisition-Recruitment-Efficiency-Dashboard/blob/main/Recruitment_Intelligence_Dashboard.pbix))
 * **Underlying Data Layer:** Optimized Star Schema Model built across 5 connected entities.
 * **Automated Engineering Script:** [`dataset_generator.py`](./Scripts/dataset_generator.py) (Python logic used to generate realistic HR logs with intentional operational bottlenecks).
 
