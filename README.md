@@ -21,6 +21,18 @@ This data solution was engineered to act as a centralized decision-making engine
 3. **Monitor Process Equity:** Surface demographic conversion rates across individual loop stages to ensure Diversity, Equity, and Inclusion (DEI) operational standards.
 
 ---
+### 🛠️ Core Tools & Technologies Used
+
+* **Microsoft Power BI Desktop:** Used as the primary business intelligence platform for data modeling, DAX engineering, report canvas design, and analytical visual layout.
+* **Power Query (M Language):** Utilized for the Extract, Transform, Load (ETL) pipeline, data type transformations, and creating the dynamic, custom corporate `Dim_Calendar` dimension table.
+* **DAX (Data Analysis Expressions):** Used to write context-aware measures tracking candidate pipelines, chronological sequence timestamps (Time-to-Hire iterations), and financial efficiency KPIs.
+* **Python:** Leveraged via an automated script (`dataset_generator.py`) to engineer realistic, multi-table relational HR datasets embedded with intentional operational bottlenecks.
+* **Built-in Power BI AI Engines:** 
+  * *Key Influencers:* Background linear/logistic regression modeling used to isolate singular drivers of early-stage candidate rejections.
+  * *Top Segments:* Background decision-tree clustering algorithms utilized to detect multi-variable risk profiles causing candidate dropouts.
+  * *Time-Series Anomaly Detection:* Rolling statistical boundary band algorithms applied to historical cost metrics to automatically surface and explain budget exceptions.
+* **Row-Level Security (RLS):** Implemented via DAX governance rules (`USERPRINCIPALNAME()`) to enforce regional data role privacy and mask sensitive target salary bands based on corporate profiles.
+* **Markdown:** Used to build clear, scannable, and bold-emphasized portfolio documentation for GitHub deployment.
 
 ## 🗂️ Data Architecture & Star Schema Model
 To guarantee optimal DAX query execution speeds and modular enterprise scalability, this project rejects standard flat-file layouts in favor of a strictly structured **Star Schema Dimensional Model**.
