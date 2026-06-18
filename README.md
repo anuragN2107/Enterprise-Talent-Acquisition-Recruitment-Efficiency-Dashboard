@@ -49,12 +49,12 @@ AVERAGEX(
     RETURN DATEDIFF(StartDate, HireDate, DAY)
 )
 
----
 
-### **2. Fiscal Efficiency Optimization: Cost-Per-Hire (CPH)**
+### 2. Fiscal Efficiency Optimization: **Cost-Per-Hire (CPH)**
 Evaluates financial efficiency across disparate operational pipelines:
 ```dax
 Cost-Per-Hire = DIVIDE(SUM('Fact_Applications'[RecruitmentCost]), [Total Hired], 0)
+
 
 3. Funnel Conversion Metrics: Offer Acceptance Rate (OAR %)
 Measures candidate pipeline closing strength at the ultimate conversion junction:
